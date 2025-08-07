@@ -20,7 +20,7 @@ gem 'pundit'
 
 # Background Jobs & Cache
 gem 'sidekiq'
-gem 'redis', '~> 4.0'
+gem 'redis', '~> 5.4'
 
 # UI & Frontend
 gem 'tailwindcss-rails'
