@@ -160,9 +160,9 @@ GEM
       pp (>= 0.6.0)
       rdoc (>= 4.0.0)
       reline (>= 0.4.2)
-    jbuilder (2.13.0)
-      actionview (>= 5.0.0)
-      activesupport (>= 5.0.0)
+    jbuilder (2.14.1)
+      actionview (>= 7.0.0)
+      activesupport (>= 7.0.0)
     json (2.13.2)
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -413,7 +413,7 @@ DEPENDENCIES
   good_job
   image_processing (~> 1.2)
   importmap-rails
-  jbuilder (~> 2.7)
+  jbuilder (~> 2.14)
   listen (~> 3.3)
   pagy
   pg (~> 1.1)
